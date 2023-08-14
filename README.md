@@ -1,6 +1,6 @@
 # REACT-POC
 
-This project allows you to generate and run a React app based on prompts processed through GPT-3. The backend is handled with a Streamlit app in Python, and the frontend is a React application.
+This project allows you to generate and run a React app based on prompts processed through GPT-4. The backend is handled with a Streamlit app in Python, and the frontend is a React application.
 
 ## Prerequisites
 
