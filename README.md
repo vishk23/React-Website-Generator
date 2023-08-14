@@ -9,10 +9,16 @@ This project allows you to generate and run a React app based on prompts process
 
 ## Installation and Setup
 
-1. **Navigate to the Project Directory**:
+1. **Clone the Repository**:
+
+   can clone it using:
+   git clone https://github.com/vishk23/react-java.git REACT-POC
+
+
+2. **Navigate to the Project Directory**:
 cd REACT-POC
 
-2. **Install Python Dependencies**:
+1. **Install Python Dependencies**:
 pip install -r requirements.txt
 
 
